@@ -2,7 +2,7 @@
 <head>
 <title>Sample Application JSP Page</title>
 </head>
-<body bgcolor=white>
+<body bgcolor=orange>
 
 <table border="0">
 <tr>
@@ -17,7 +17,7 @@ application.
 </tr>
 </table>
 
-<%= new String("Hello!") %>
+<%= new String("Hello! I want this change to flow automatically.") %>
 
 </body>
 </html>
